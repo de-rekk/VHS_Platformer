@@ -15,7 +15,7 @@
 //   Fallback (playground ui_in buttons 0-3, 7):
 //     0 = left, 1 = right, 2 = jump, 3 or 7 = start / restart
 
-module tt_um_vga_example(
+module tt_um_vga_platformer(
   input  wire [7:0] ui_in,    
   output wire [7:0] uo_out,  
   input  wire [7:0] uio_in, 
