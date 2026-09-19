@@ -2,7 +2,7 @@
 
 # VHS Platformer
 
-![Descriptive Alt Text](images/image.png)
+![VGA Playground Image](images/image.png)
 
 - [Read the documentation for project](docs/info.md)
 
@@ -26,3 +26,11 @@ The design implements a complete game engine running directly on silicon:
   - **1:** Move Right
   - **2:** Jump
   - **3 or 7:** Start / Restart
+
+## 2D VIEW
+
+![2D Image](images/2D.png)
+
+## 3D VIEW
+
+![3D Image](images/3D.png)
