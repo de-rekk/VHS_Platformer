@@ -2,6 +2,8 @@
 
 # VHS Platformer
 
+![Descriptive Alt Text](images/image.png)
+
 - [Read the documentation for project](docs/info.md)
 
 Link to VGA Playground: https://vga-playground.com/?repo=https://github.com/de-rekk/VHS_Platformer/
